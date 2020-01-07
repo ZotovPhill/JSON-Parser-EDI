@@ -1,0 +1,16 @@
+[
+    {
+        "First_number": "+7(908)456-3275",
+        "Second_number": "+375(49)535-30-24",
+        "Start_call": 1577617608,
+        "End_call": 1577619342,
+        "Call_type": "LTE"
+    },
+    {
+        "First_number": "+7(972)447-2687",
+        "Second_number": "+375(826)490-25-54",
+        "Start_call": 1577618106,
+        "End_call": 1577619458,
+        "Call_type": "CDMA"
+    }
+]

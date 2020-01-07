@@ -1,0 +1,23 @@
+[
+    {
+        "First_number": "+375(50)495-23-80",
+        "Second_number": "+375(51)535-25-63",
+        "Start_call": 157761728,
+        "End_call": 1577619973,
+        "Call_type": "GSM"
+    },
+    {
+        "First_number": "+375(65)544-30-01",
+        "Second_number": "+375(26)469-32-96",
+        "Start_call": 1577617445,
+        "End_call": 1577619265,
+        "Call_type": "LTE"
+    },
+    {
+        "First_number": "+375(61)439-22-33",
+        "Second_number": "+7(875)541-3903",
+        "Start_call": 1577617898,
+        "End_call": 1577619816,
+        "Call_type": "GSM"
+    }
+]

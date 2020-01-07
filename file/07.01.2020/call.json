@@ -1,0 +1,30 @@
+[
+    {
+        "First_number": "+7(891)409-2704",
+        "Second_number": "+375(21)415-35-93",
+        "Start_call": 1577617655,
+        "End_call": 1577619777,
+        "Call_type": "GSM"
+    },
+    {
+        "First_number": "+375(02)513-20-59",
+        "Second_number": "+375(35)478-23-28",
+        "Start_call": 1577617686,
+        "End_call": 1577619435,
+        "Call_type": "LTT"
+    },
+    {
+        "First_number": "+7(802)466-3055",
+        "Second_number": "+375(95)461-33-66",
+        "Start_call": 1577617523,
+        "End_call": 157761972,
+        "Call_type": "LTE"
+    },
+    {
+        "First_number": "+371(29)408-25-17",
+        "Second_number": "+7(960)459-2720",
+        "Start_call": 1577617395,
+        "End_call": 1577619956,
+        "Call_type": "GSM"
+    }
+]
