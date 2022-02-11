@@ -28,7 +28,7 @@ mysqlclient==1.4.6
 natgrid==0.2.1
 pathspec==0.6.0
 pathtools==0.1.2
-protobuf==3.11.2
+protobuf==3.15.0
 pycodestyle==2.5.0
 pyflakes==2.1.1
 pylint==2.4.4
